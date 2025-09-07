@@ -1,0 +1,15 @@
+# Core dependencies
+PyQt6>=6.4.0
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Optional dependencies for enhanced functionality
+matplotlib>=3.5.0  # For chart visualization
+fpdf2>=2.7.0       # For PDF export (alternative: fpdf>=2.5.0)
+python-dateutil>=2.8.0  # For advanced datetime parsing
+chardet>=5.0.0     # For character encoding detection
+
+# Development dependencies (optional)
+# pytest>=7.0.0    # For testing
+# black>=22.0.0    # For code formatting
+# flake8>=4.0.0    # For code linting
